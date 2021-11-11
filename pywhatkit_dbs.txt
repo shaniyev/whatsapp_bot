@@ -1,0 +1,21 @@
+--------------------
+Date: 18:8:2021
+Time: 10:25
+Phone number: +77776866457
+Message: I love Python
+--------------------
+Date: 18:8:2021
+Time: 0:0
+Phone number: +77776866457
+Message: I love Python
+--------------------
+Date: 18:8:2021
+Time: 12:19
+Phone number: +77776866457
+Message: I love Python
+--------------------
+Date: 18:8:2021
+Time: 12:20
+Phone number: +77776866457
+Message: I love Python
+--------------------
